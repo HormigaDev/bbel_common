@@ -1,0 +1,11 @@
+[package]
+name = "bbel-common"
+version = "0.1.0"
+edition = "2021"
+authors = ["HormigaDev <hormigadev7@gmail.com>"]
+description = "Libreria de funciones comunes utilizadas en mis proyectos"
+license = "MIT"
+repository = "https://github.com/HormigaDev/bbel_common"
+readme = "README.md"
+
+[dependencies]
